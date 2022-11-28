@@ -2,3 +2,4 @@ file2
 new line
 new line about Me
 new Code for firstBranch
+I delete 2 line from MASTER
